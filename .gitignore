@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local output artifacts
+output_ispring/
+output_ispring_clean/
+output_ispring_sections/
+output_ispring_task/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
